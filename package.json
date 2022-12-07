@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/eluminous-se44/shesh-jan20-node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
